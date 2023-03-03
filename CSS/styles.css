@@ -16,3 +16,9 @@ h2{
 h3{
     color: #A0C3D2;
 }
+#profile-photo{
+   margin-left:20px;
+    border-radius: 20%;
+    max-height: 250px;
+    width: auto;
+}
